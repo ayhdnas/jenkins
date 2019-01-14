@@ -262,15 +262,4 @@
   </reporting>
 
 </project>
-<distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>DESKTOP-LEAMDQ6-releases</name>
-        <url>http://localhost:8081/artifactory/projectjenkins</url>
-    </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>DESKTOP-LEAMDQ6-snapshots</name>
-        <url>http://localhost:8081/artifactory/projectjenkins</url>
-    </snapshotRepository>
-</distributionManagement>
+
